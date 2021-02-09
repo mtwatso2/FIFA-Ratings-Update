@@ -17,6 +17,8 @@ Predicting FIFA Player Ratings using real life statistics
 
 - clean.py: Python script cleaning/merging data and outputting new data
 
+- data17-20.csv: data after EDA
+
 - fut_data_17_to_20.csv: output of clean.py
 
-- data17-20.csv: data after EDA
+
